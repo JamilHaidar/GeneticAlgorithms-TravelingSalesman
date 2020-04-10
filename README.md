@@ -80,7 +80,7 @@ Finally, a random mutation occurs at a random rate. The mutation swaps two rando
 # Demonstration
 
 First the number of cities (points), the population size, the mutation rate, the ration kept, and the number of generations is set. Press initialize as such:
-![initialize](./images/initialize.PNG)
+![initialize](./images/initial.PNG)
 
 The Next Generation could be pressed to advance the population one generation at a time and see how it changes over time. as such:
 ![nextgen](./images/nextgen.PNG)
