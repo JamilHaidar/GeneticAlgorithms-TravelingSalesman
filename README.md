@@ -17,7 +17,7 @@ where the dimensions of the square are 1units x 1units and there are N cities re
 
 This problem is NP-hard and takes alot of computation using greedy algorithms for example brute forcing take a time of O(N!) since this is a combinatorial optimization problem.
 
-For further reading and other approaches, here's the wiki link. I suggest reading up on it since it's very interesting, and there are really smart approaches to solve it.
+For further reading and other approaches, here's the [wiki link](https://en.wikipedia.org/wiki/Travelling_salesman_problem). I suggest reading up on it since it's very interesting, and there are really smart approaches to solve it.
 
 ---
 
